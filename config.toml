@@ -1,0 +1,15 @@
+# Telegram settings
+[telegram]
+# Telegram API ID and hash
+api_id = ""
+api_hash = ""
+# Telegram group entities
+group_entities = []
+
+
+# Betting settings
+[betting]
+# The Bet365 host (same as used in Maverick platform config)
+host = "www.bet365.es"
+# The stake (amount to bet) for each bet
+stake = 10
